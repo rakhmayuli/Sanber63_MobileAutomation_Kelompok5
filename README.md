@@ -1,14 +1,14 @@
 # Sanber63_MobileAutomation_Kelompok5
 
-Pembagian Tugas:
-1. Fitur Login
--
--
-2. Fitur Book Flight 
-- Rakhma Yuli Affiyanti (OneWay Flight)
-Record Test Case: [One Way Flight] (https://drive.google.com/file/d/1Max7qh7s0cWW2OwKa0dwz8fY74L8wOZu/view?usp=sharing)
-- 
+## Pembagian Tugas:
+### Fitur Login
+1. 
+2. 
+### Fitur Book Flight 
+1. Rakhma Yuli Affiyanti (OneWay Flight)
+- [Record Test] (https://drive.google.com/file/d/1Max7qh7s0cWW2OwKa0dwz8fY74L8wOZu/view?usp=sharing)
+2.  
 
-3. Fitur Search
-- 
-- 
+### Fitur Search
+1. 
+2. 
