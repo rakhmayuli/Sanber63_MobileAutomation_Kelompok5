@@ -1,0 +1,8 @@
+#===================
+# Locator Elemen (Gunakan Xpath, ID, dll)
+#===================
+home_signin_button: //android.widget.Button[@resource-id="com.example.myapplication:id/login"]
+username_field: //android.widget.EditText[@resource-id="com.example.myapplication:id/username"]
+password_field: //android.widget.EditText[@resource-id="com.example.myapplication:id/password"]
+button_signin: //android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]
+
