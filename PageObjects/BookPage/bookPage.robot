@@ -96,3 +96,23 @@ Click Price Confirm
 
 Book Flight Successfully 
     Wait Until Element Is Visible            ${successBooked}
+
+#KEYWORD FOR BOOK FLIGHT ONE WAY (TEST SETUP)
+Click Sign In Button On Home Screen 
+    Wait Until Element Is Visible    ${signIn_button_homePage}
+    Click Element                    ${signIn_button_homePage}
+
+Login User
+    Wait Until Element Is Visible    ${username_login_input}
+    Input Text                       ${username_login_input}        support@ngendigital.com
+    Input Password                   ${password_login_input}        abc123
+
+Click Sign In Button On Login Screen
+    Click Element                          ${login_button}
+
+Click Book Button On Home Screen 
+    Wait Until Element Is Visible           ${book_button_homePage}
+    Click Element                           ${book_button_homePage}
+
+Verify Successfullly Login
+    Wait Until Element Is Visible          ${user_ngendigital_homepage}
