@@ -1,0 +1,38 @@
+one_way_button: //android.support.v7.app.ActionBar.Tab[@content-desc="One Way"]
+from_city_button: //android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerFrom"]
+to_city_button: //android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerTo"]
+class_button: //android.widget.Spinner[@resource-id="com.example.myapplication:id/spinnerClass"]
+submitBook_button: //android.widget.Button[@resource-id="com.example.myapplication:id/book_flight"]
+#choose from city
+city_newYork: //android.widget.TextView[@resource-id="android:id/text1" and @text="New York"]
+city_chichago: //android.widget.TextView[@resource-id="android:id/text1" and @text="Chicago"]
+city_toronto: //android.widget.TextView[@resource-id="android:id/text1" and @text="Toronto"]
+
+#choose to city
+city_london:  //android.widget.TextView[@resource-id="android:id/text1" and @text="London"]
+city_paris: //android.widget.TextView[@resource-id="android:id/text1" and @text="Paris"]
+city_ottawa: //android.widget.TextView[@resource-id="android:id/text1" and @text="Ottawa"]
+
+#choose Class
+class_economy: //android.widget.TextView[@resource-id="android:id/text1" and @text="Economy"]
+class_first: //android.widget.TextView[@resource-id="android:id/text1" and @text="First"]
+class_business: //android.widget.TextView[@resource-id="android:id/text1" and @text="Business"]
+
+#choose date
+start_date_button: //android.widget.TextView[@resource-id="com.example.myapplication:id/textStartDate"]
+end_date_button: //android.widget.TextView[@resource-id="com.example.myapplication:id/textEndDate"]
+start_date_picker: //android.view.View[@content-desc="01 August 2019"]
+end_date_picker: //android.view.View[@content-desc="02 August 2019"]
+date_buttonOk: //android.widget.Button[@resource-id="android:id/button1"]
+
+# Choose flight & day
+flightOnly_radioButton: //android.widget.RadioButton[@resource-id="com.example.myapplication:id/radioButtonFlight"]
+flightHotel_radioButton: //android.widget.RadioButton[@resource-id="com.example.myapplication:id/radioButtonFlightHotel"]
+day_checkbox: //android.widget.CheckBox[@resource-id="com.example.myapplication:id/checkBoxDay"]
+
+#price and success Booked
+choose_price_button: //android.widget.Button[@resource-id="com.example.myapplication:id/price5"]
+priceConfirm_button: //android.widget.Button[@resource-id="com.example.myapplication:id/confirm_order"]
+successBooked: //android.widget.CheckedTextView[@resource-id="com.example.myapplication:id/checkedTextView"]
+
+
