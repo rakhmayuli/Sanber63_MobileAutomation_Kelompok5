@@ -19,4 +19,4 @@ Open Flight Android Application
 
 
 Close Flight Application
-    Close Application
+    Close All Applications
