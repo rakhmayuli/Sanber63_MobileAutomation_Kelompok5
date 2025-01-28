@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Sanber63_MobileAutomation_Kelompok5 ⚙️🔧
 Automation Testing Mobile Application with Robot Framework Collaboration 🤝🤝
 ⏳ For Finish SanberCode Bootcamp QUIZ 3 Week 3 ⌛️
@@ -33,11 +32,11 @@ Automation Testing Mobile Application with Robot Framework Collaboration 🤝�
 - Link Vidio : 
 - ______________________________
 4. Rakhma Yuli Affiyanti
-- Task : 
+- Task : Fitur Book Flight 
 
 - Github Username : rakhmayuli
 
-- Link Vidio : 
+- Record Test Case: [One Way Flight] (https://drive.google.com/file/d/1Max7qh7s0cWW2OwKa0dwz8fY74L8wOZu/view?usp=sharing)
 - ______________________________
 5. Tina Oktapiani
 - Task : 
@@ -71,19 +70,3 @@ Testing Automation Tool :
 - Appium Inspectore
 - Python 
 - Scrcpy
-=======
-# Sanber63_MobileAutomation_Kelompok5
-
-Pembagian Tugas:
-1. Fitur Login
--
--
-2. Fitur Book Flight 
-- Rakhma Yuli Affiyanti (OneWay Flight)
-Record Test Case: [One Way Flight] (https://drive.google.com/file/d/1Max7qh7s0cWW2OwKa0dwz8fY74L8wOZu/view?usp=sharing)
-- 
-
-3. Fitur Search
-- 
-- 
->>>>>>> ce52337c889d1e9ef523640c32129b9a27596d81
