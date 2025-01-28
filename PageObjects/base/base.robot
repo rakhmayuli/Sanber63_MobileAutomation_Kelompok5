@@ -16,6 +16,7 @@ Open Flight Android Application
     ...                       deviceName=${DEVICE_NAME}    
     ...                       appPackage=${APP_PACKAGE}    
     ...                       appActivity=${APP_ACTIVITY}
+    Sleep    3s
 
 
 Close Flight Application

@@ -1,0 +1,5 @@
+valid_username: support@ngendigital.com
+valid_password: abc123
+invalid_username: invalidUser@gmail.com
+invalid_password: invalid_password
+empty: ""
