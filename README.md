@@ -39,7 +39,7 @@ Automation Testing Mobile Application with Robot Framework Collaboration ü§ùü§
 - Record Test Case: (https://drive.google.com/file/d/1Max7qh7s0cWW2OwKa0dwz8fY74L8wOZu/view?usp=sharing)
 - ______________________________
 5. Tina Oktapiani
-- Task : 
+- Task : Fitur Search
 
 - Github Username : TinaOktapiani29
 
