@@ -1,0 +1,6 @@
+#Login to Application - (Tina Oktapiani)
+signIn_homePage_button: //android.widget.Button[@resource-id="com.example.myapplication:id/login"]
+input_username_login : //android.widget.EditText[@resource-id="com.example.myapplication:id/username"]
+input_password_login : //android.widget.EditText[@resource-id="com.example.myapplication:id/password"]
+login_button         : //android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]
+
