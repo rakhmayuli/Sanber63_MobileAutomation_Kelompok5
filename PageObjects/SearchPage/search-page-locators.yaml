@@ -4,3 +4,5 @@ input_username_login : //android.widget.EditText[@resource-id="com.example.myapp
 input_password_login : //android.widget.EditText[@resource-id="com.example.myapplication:id/password"]
 login_button         : //android.widget.Button[@resource-id="com.example.myapplication:id/signIn"]
 
+user_homepage: //android.widget.TextView[@resource-id="com.example.myapplication:id/textView"]    
+search_button_homePage: //android.widget.Button[@resource-id="com.example.myapplication:id/search"]
